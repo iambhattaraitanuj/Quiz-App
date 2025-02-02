@@ -69,12 +69,7 @@ const quizQuestions = [
     question: "Which of the following is used to style a React component?",
     options: ["CSS", "Inline Styles", "Styled Components", "All of the above"],
     correctAnswer: "All of the above",
-  },
-  {
-    question: "Who is Tanuj Bhattarai",
-    options: ["Coder", "Musician", "Ai Developer", "All of the above"],
-    correctAnswer: "Coder",
-  },
+  }
 ];
 
 const container = document.querySelector(".container");
