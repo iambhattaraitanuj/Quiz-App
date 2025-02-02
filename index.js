@@ -64,11 +64,6 @@ const quizQuestions = [
       "Document Oriented Module",
     ],
     correctAnswer: "Document Object Model",
-  },
-  {
-    question: "Which of the following is used to style a React component?",
-    options: ["CSS", "Inline Styles", "Styled Components", "All of the above"],
-    correctAnswer: "All of the above",
   }
 ];
 
